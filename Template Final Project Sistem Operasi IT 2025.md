@@ -1,4 +1,4 @@
-# Final Project Sistem Operasi (x)
+# Final Project Sistem Operasi IT
 
 ## Peraturan
 1. Waktu pengerjaan dimulai hari Kamis (19 Juni 2025) setelah soal dibagikan hingga hari Rabu (25 Juni 2025) pukul 23.59 WIB.
