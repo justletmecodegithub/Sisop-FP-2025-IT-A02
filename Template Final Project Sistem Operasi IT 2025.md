@@ -60,7 +60,8 @@ Struktur repository:
 ...
 
 **Video Menjalankan Program**
-...
+
+https://github.com/user-attachments/assets/1407d3c4-d94d-475b-b71e-b357d90da034
 
 ## Daftar Pustaka
 
