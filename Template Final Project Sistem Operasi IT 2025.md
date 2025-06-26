@@ -30,10 +30,8 @@ Buat program dimana ketika Ctrl+C (SIGINT), Ctrl+Z (SIGSTP), atau kill (SIGKILL)
 
 Struktur repository:
 ```
-—Template Final Project Sistem Operasi:
+—Template Final Project Sistem Operasi IT 22025.md
 — Signal_Interceptor.c
-
-..
 ```
 
 ## Pengerjaan
