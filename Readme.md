@@ -79,7 +79,7 @@ https://github.com/user-attachments/assets/1407d3c4-d94d-475b-b71e-b357d90da034
 
 ## Daftar Pustaka
 
-- W. R. Stevens and S. A. Rago, Advanced Programming in the UNIX Environment, 3rd ed., Addison-Wesley, 2013.
-- M. Kerrisk, The Linux Programming Interface: A Linux and UNIX System Programming Handbook, No Starch Press, 2010.
+- W. R. Stevens and S. A. Rago, Advanced Programming in the UNIX Environment, 3rd ed. Boston, MA: Addison-Wesley, 2013. [Online]. Available: https://books.google.co.id/books?id=kCTMFpEcIOwC
+- M. Kerrisk, The Linux Programming Interface: A Linux and UNIX System Programming Handbook, No Starch Press, 2010. [Online]. Available: [https://books.google.co.id/books?id=kCTMFpEcIOwC](https://books.google.co.id/books?hl=en&lr=&id=Ps2SH727eCIC&oi=fnd&pg=PR7&dq=the+linux+programming+interface+a+linux+and+unix+system+programming+handbook&ots=kOGcv3AMCa&sig=pmZyJrvXGSSrhkdDKud_Ppfl6V4&redir_esc=y#v=onepage&q=the%20linux%20programming%20interface%20a%20linux%20and%20unix%20system%20programming%20handbook&f=false)
 - IEEE Std 1003.1-2017, "POSIX.1-2017 — Signal Concepts." [Online]. Available: https://pubs.opengroup.org/onlinepubs/9699919799/basedefs/signal.h.html
 
