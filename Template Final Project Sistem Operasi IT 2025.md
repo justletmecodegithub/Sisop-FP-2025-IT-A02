@@ -23,10 +23,7 @@ Muhammad Ahsani Taqwiim Rakhman | 5027241099
 
 ## Deskripsi Soal
 
-> Insert testcase... (contoh dibawah) // hapus line ini
-
-Memahami race condition pada operasi check-then-act. Program membuat 2 thread; tiap thread mencoba mengambil satu-satunya sumber daya yang tersedia dari variabel global stok (nilai awal 1). Jika tanpa mutex, kedua thread bisa lolos pengecekan dan sama-sama mengambil sumber daya, menghasilkan nilai akhir stok menjadi -1.
-
+Buat program dimana ketika Ctrl+C (SIGINT), Ctrl+Z (SIGSTP), atau kill (SIGKILL) akan menunjukkan pesan khusus untuk demonstrasi cara kerja signal, tambahkan demonstrasi SIGNAL sebanyak mungkin.
 ### Catatan
 
 > Insert catatan dari pengerjaan kalian... (contoh dibawah) // hapus line ini
