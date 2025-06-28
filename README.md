@@ -16,7 +16,7 @@
 
 | Nama                               | NRP         |
 |-----------------------------------|-------------|
-| Salomo                            | 502722063   |
+| Salomo                            | 5027221063   |
 | Muhammad Fatihul Qolbi Ash Shiddiqi | 5027241023 |
 | Rayhan Agnan Kusuma               | 5027241092  |
 | Muhammad Ahsani Taqwiim Rakhman  | 5027241099  |
